@@ -1,0 +1,5 @@
+requests
+datetime
+openai
+io
+docx-python
